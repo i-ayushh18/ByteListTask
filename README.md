@@ -1,7 +1,4 @@
 ByteList Task
-=======
-=======
->>>>>>> 9fae0ea (updated readme.md)
 # 🚀 DevOps Dashboard Lite
 
 A sleek and responsive dashboard to monitor services across environments. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Tabler Icons**.
