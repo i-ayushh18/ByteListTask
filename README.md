@@ -41,7 +41,3 @@ npm install
 
 # 3. Run locally
 npm run dev
-<<<<<<< HEAD
->>>>>>> 9fae0ea (updated readme.md)
-=======
->>>>>>> 9fae0ea (updated readme.md)
