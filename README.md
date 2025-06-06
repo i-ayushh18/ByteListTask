@@ -1,6 +1,7 @@
-<<<<<<< HEAD
 ByteList Task
 =======
+=======
+>>>>>>> 9fae0ea (updated readme.md)
 # 🚀 DevOps Dashboard Lite
 
 A sleek and responsive dashboard to monitor services across environments. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Tabler Icons**.
@@ -43,4 +44,7 @@ npm install
 
 # 3. Run locally
 npm run dev
+<<<<<<< HEAD
+>>>>>>> 9fae0ea (updated readme.md)
+=======
 >>>>>>> 9fae0ea (updated readme.md)
